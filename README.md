@@ -15,7 +15,7 @@ of some HTML code and it's interaction with the CSS file.
 
 
 
-        ![alt text]"(https://github.com/L10N37/02-Challenge/blob/main/assets/images/Screenshot.png?raw=true)"
+        ![alt text]"(https://raw.githubusercontent.com/L10N37/02-Challenge/main/assets/images/Screenshot.png)"
    
 ## License
 

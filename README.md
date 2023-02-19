@@ -20,9 +20,8 @@ of some HTML code and it's interaction with the CSS file.
 
 
 
-        ![alt text](.assets/images/screenshot.png)
-    
-
+        ![alt text]"(https://github.com/L10N37/02-Challenge/blob/main/assets/images/Screenshot.png)"
+   
 ## License
 
 Not yet licensed, for your own safety - don't even read this code. It's only for monash tutors to review.

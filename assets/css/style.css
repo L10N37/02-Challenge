@@ -1,18 +1,20 @@
 * {
     box-sizing: border-box;
     padding: 0;
-    margin: 0;
+    margin: 0; /* Will adjust the header section with 'horiseon' text and links */
+    
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #dcd6d6; /* main BG colour (default white, black with dark reader) */
 }
 
+ /*************** Header Attributes ***************/ 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    /*color: #ffffff;      'SEO' TEXT COLOUR from HoriSEOn text, commented out as 'SEO' characters differ in colour from the rest of the 'horiseon' text */
 }
 
 .header h1 {
@@ -21,35 +23,38 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+   /* color: #d9dcd6;      'SEO' TEXT COLOUR from HoriSEOn text, commented out -> as above comment */
 }
 
 .header div {
-    padding-top: 15px;
-    margin-right: 20px;
+    padding-top: 30px;      /* 3 links in header sections vertical position */
+    margin-right: 50px;     /* 3 links in header sections position from R/H/S */
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
 .header div ul {
-    list-style-type: none;
+    list-style-type: none;          /* Unsure, doesn't seem to change anything by modifying or deleting */
 }
 
 .header div ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 10px;              /*Affects the spacing between the 3 links in the header */
 }
 
 a {
-    color: #ffffff;
+    color: #ffffff;             /* font colour for the links in the header */
     text-decoration: none;
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px;            /* Descriptive text font size in aside area */
 }
 
+
+
+/* Main Image attributes i.e. the massive photo in the centre of the page */
 .hero {
     margin-top: 25px;
 
@@ -78,6 +83,9 @@ p {
     margin-left: 20px;
 }
 
+
+
+/* aside section attributes */
 .AsideClass {
     margin-top: 25px;
     margin-right: 20px;
@@ -110,8 +118,10 @@ p {
 
 
 
+
+
 .HeaderItems {
-    margin-bottom: 20px;
+    margin-bottom: 20px; /* Spacing between the blue rectangular sections on the bottom of the page */
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -133,6 +143,8 @@ p {
 
 
 
+
+/* footer attributes */
 .footer {
     padding: 30px;
     clear: both;

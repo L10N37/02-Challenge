@@ -14,8 +14,8 @@ By doing this project, I have learned a little about semantic structure and the 
 of some HTML code and it's interaction with the CSS file.
 
 
-        
-        ![alt text](https://raw.githubusercontent.com/L10N37/02-Challenge/main/assets/images/Screenshot.png)
+        ![alt text](assets/images/Screenshot.png)
+
         
    
 ## License

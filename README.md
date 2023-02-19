@@ -14,7 +14,7 @@ By doing this project, I have learned a little about semantic structure and the 
 of some HTML code and it's interaction with the CSS file.
 
 
-        ![alt text](assets/images/Screenshot.png)
+![alt text](assets/images/Screenshot.png)
 
         
    

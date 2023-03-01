@@ -17,7 +17,7 @@ of some HTML code and it's interaction with the CSS file.
 ![alt text](assets/images/Screenshot.png)
 
         
-Link to live page: https://l10n37.github.io/02-Challenge/
+Link to live page: https://l10n37.github.io/Horiseon-Refactor/
 ## License
 
 Not yet licensed, for your own safety - don't even read this code. It's only for monash tutors to review.

@@ -2,7 +2,6 @@
     box-sizing: border-box; /*Doesn't change anything? */
     padding: 0;
     margin: 0; /* Will adjust the header section with 'horiseon' text and links */
-    
 }
 
 body {
@@ -21,7 +20,6 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
 
 .header div {
     padding-top: 30px;      /* 3 links in header sections vertical position */
@@ -49,15 +47,11 @@ p {
     font-size: 18px;            /* Descriptive text font size in aside area */
 }
 
-
-
 /* Main Image attributes i.e. the massive photo in the centre of the page */
 .hero {
     margin-top: 25px;
-
-    height: 1500px;
+    height: 1200px;
     width: 100%;
-    
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
@@ -78,46 +72,32 @@ p {
     width: 100%;            
 }
 
-
-
 /* aside section attributes */
 .AsideClass {
     position: absolute;
     right: 100px;
-    bottom: -1652px;
-    
-    
+    bottom: -1087px;
     padding: 20px;
     width: 20%;
-    height: 100%;
+    height: 80%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    
-    
 }
 
 .AsideItems {
     margin-bottom: 2px;    /* aside rectangular height */
     color: #ffffff;     /* Aside section text colour */
-    
 }
-
 
 .AsideItems h3 {
-    
     text-align: center;
 }
-
 
 .AsideItems img {
     display: block;
     margin: 50px auto;
     max-width: 150px;
 }
-
-
-
-
 
 .MainItems {
     
@@ -132,12 +112,9 @@ p {
     
 }
 
-
-
 .MainItems img {
     max-height: 200px;  /* images in blue rectangles height limit i.e. Online rep/socialmedia/search engine opt.*/
 }
-
 
 .MainItems h2 {
     
@@ -145,12 +122,8 @@ p {
     font-size: 36px; /* font size for Search engine Optimsation / Online Rep Management/  Social media marketing */
 }
 
-
-
-
 /* footer attributes */
 .footer {
-    
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
